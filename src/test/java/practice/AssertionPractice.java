@@ -17,6 +17,8 @@ public class AssertionPractice {
 		System.out.println("step1");
 		Assert.assertEquals(1,1);
 		System.out.println("step 2");
+		
+		
 	}
 	
 	/**
